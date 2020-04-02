@@ -1,0 +1,15 @@
+Design Problem #10 from Spring 2019, CS 142
+
+Many international travelers arrive at JFK International Airport each day.
+
+They can be foreign nationals or US citizens.
+
+In order to go through customs and enter the US, there are certain qualities that they need to attain.
+
+For example, foreign nationals must have a valid US Visa, and have either clean background, or have committed a minor crime (misdemeanour?) that has already been explained.
+
+Both US citizens and foreign nationals need to not be bringing unknown substances or things that are prohibited into the country.
+
+If any of these qualities aren’t met, the particular visitor won’t be able to enter the US.
+
+Design a system for the authorities to use to store information on travelers and to quickly look them up upon arrival.
